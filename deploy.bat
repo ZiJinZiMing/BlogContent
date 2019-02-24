@@ -1,3 +1,3 @@
-hexo generate
-hexo clean
-hexo deploy
+hexo generate&hexo clean&hexo deploy
+
+pause
