@@ -9,7 +9,7 @@ description: 描述。。。 暂时没想到
 keywords: 见识 规矩 爱
 author: 子津子铭
 language: zh-CN
-timezone: Asia/shanghai
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -19,7 +19,7 @@ permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
-source_dir: source
+source_dir: source/2019/02
 public_dir: public
 tag_dir: tags
 archive_dir: archives
